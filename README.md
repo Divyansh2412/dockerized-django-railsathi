@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RailSathiBE – Dockerized Django App
 
 ## 🚀 Features
